@@ -139,14 +139,7 @@
 }
 
 @media screen and (max-width: 576px) {
-    .certifications__modal-content {
-        padding: 4.5rem 1.5rem 2.5rem;
-    }
-}
-
-/* For small devices */
-@media screen and (max-width: 350px) {
-    .certifications__container {
+        .certifications__container {
         grid-template-columns: max-content;
     }
 
